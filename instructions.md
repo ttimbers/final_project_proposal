@@ -1,24 +1,37 @@
 ## Final Project Proposal
-**due at 12 noon on 2015-10-30** via Github
+**due at 12 noon on 2015-11-02** via Github
 
 ## Instructions
 
-Please prepare a 1 page (600 words) written proposal on the scientific problem you would 
+1. To start, [**fork**](https://guides.github.com/activities/forking/) the [repository](https://github.com/PHY3009/final_project_proposal).
+
+2. [**Clone**](http://gitref.org/creating/#clone) the repository to your computer.
+
+3. Please prepare a 1 page (600 words) written proposal on the scientific problem you would 
 like to address for your final project. Please include the following sections:
 
-1. **Title**
-2. **Introduction**: providing background information on the topic, and the clearly 
+* **Title**
+* **Introduction**: providing background information on the topic, and the clearly 
 stating the scientific question and hypothesis.
-3. **Methods**: how do you plan to solve/address the scientific question and/or test the 
+* **Methods**: how do you plan to solve/address the scientific question and/or test the 
 hypothesis.
-4. **Expected outcomes and significance**: what do you expect to find? what impact could 
+* **Expected outcomes and significance**: what do you expect to find? what impact could 
 such findings have? what future research could this lead to?
-5. **References**: please read and cite a minimum of 3 papers from the primary literature 
+* **References**: please read and cite a minimum of 3 papers from the primary literature 
 on your proposal topic. Choose a scientific journal from your field and use their reference
 formatting style.
 
 You are strongly encouraged to meet with and discuss your proposal with the tutor 
 **before** you hand this in.
+
+4. [**Add**](http://gitref.org/basic/#add) and [**commit**](http://gitref.org/basic/#commit) 
+changes to Git.
+
+6. [**Push**](http://gitref.org/remotes/#push) the changes up to your copy of the 
+repository on GitHub.
+
+7. [Create a **pull request**](https://help.github.com/articles/creating-a-pull-request/) 
+on the original repository to turn in the assignment.
 
 ## Grading rubric
 
